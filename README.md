@@ -5,7 +5,7 @@
 
  🔭  This past year, I've been working with Algorithm efficiency and AI, and although I love it, I can't wait to explore other areas of CS. 
 
- 🌱  I’m currently learning more about cloud, specifically Firbase and AWS!
+ 🌱  I’m currently learning more about cloud, specifically Firebase and AWS!
 
  ⚡  In my free time, I enjoy gardening, running, and watching horror movies with friends. 
 
