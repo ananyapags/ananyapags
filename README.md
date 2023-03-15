@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**ananyapags/ananyapags** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤠  Howdy! My name is Ananya, and I'm a Junior studying Computer Science at SCU. 
 
-Here are some ideas to get you started:
+- 😍  My passion for computer science stems from my obsession with brain teasers and puzzles. I'm addicted to the feeling you get when you finally figure out a solution, similar to the one where your code successfully runs! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭  This past year, I've been working with Algorithm efficiency and AI, and although I love it, I can't wait to explore other areas of CS. 
+
+- 🌱  I’m currently learning more about cloud, specifically Firbase and AWS!
+
+- ⚡  In my free time, I enjoy gardening, running, and watching horror movies with friends. 
+
+- 👯‍♀️ Feel free to reach out if you want to be friends, work together, or simply have any questions. 
+
+- 📫 How to reach me: Email Me!
