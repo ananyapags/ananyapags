@@ -1,8 +1,8 @@
-## 🤠  Howdy! My name is Ananya, and I'm a Junior studying Computer Science. 
+## 🤠  Howdy! My name is Ananya, and I'm a Senior studying Computer Science. Currently looking for 2024 internship opportunities!
 
  😍  My passion for computer science stems from my obsession with brain teasers and puzzles. I'm addicted to the feeling you get when you finally figure out a solution, similar to the one where your code successfully runs! 
 
- 🔭  This past year, I've been working with Algorithm efficiency and AI, and although I love it, I can't wait to explore other areas of CS. 
+ 🔭  This past year, I've been working with Machine Learning and WebDev, and I love it! I also can't wait to explore other areas of CS. 
 
  🌱  I’m currently learning more about cloud, specifically Firebase and AWS!
 
@@ -20,13 +20,11 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
