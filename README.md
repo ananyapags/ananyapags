@@ -1,4 +1,4 @@
-## 🤠  Howdy! My name is Ananya, and I'm a graduate studying Computer Science. I'm currently looking for SWE/ML employment opportunities!
+## 🤠  Howdy! My name is Ananya, and I'm a grad student studying Computer Science and Engineering. I'm currently looking for SWE/ML employment opportunities!
 
 
 [![Gmail Badge](https://img.shields.io/badge/-apagadala@scu.edu-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:apagadala@scu.edu)](mailto:apagadala@scu.edu)
