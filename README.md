@@ -8,7 +8,7 @@
 
  😍 I'm passionate about performance and user optimization! 
 
- 🔭  This past year, I've been working with Machine Learning and Full Stack Development, and I love it! Check out some of my personal projects ->
+ 🔭  So far, I've been working with Machine Learning and Full Stack Development, and I love it! Check out some of my personal projects ->
 
  🌱 I’m currently learning more about Machine Learning performance optimization and GPU programming!
 
