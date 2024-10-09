@@ -6,13 +6,13 @@
 [![Github Pages](https://img.shields.io/badge/pags.dev-121013?style=for-the-badge&logo=github&logoColor=white)](https://www.pags.dev)
 
 
- 😍  My passion for computer science stems from my obsession with brain teasers and puzzles. I'm addicted to the feeling you get when you finally figure out a solution, similar to the one where your code successfully runs! 
+ 😍 I'm passionate about performance and user optimization! 
 
- 🔭  This past year, I've been working with Machine Learning and WebDev, and I love it! Check out some of my personal projects ->
+ 🔭  This past year, I've been working with Machine Learning and Full Stack Development, and I love it! Check out some of my personal projects ->
 
- 🌱  I’m currently learning more about cloud, specifically Firebase and AWS!
+ 🌱 I’m currently learning more about Machine Learning performance optimization and GPU programming!
 
- ⚡  In my free time, I enjoy gardening, running, and watching horror movies with friends. 
+ ⚡  In my free time, I enjoy reading, yoga, and watching horror movies with friends. 
 
  👯‍♀️ I'm always on the lookout for new opportunities to continue learning and empowering the community around me. Whether you want just to say hi or work with me on a project feel free to reach out! Look forward to hearing from you!
 
